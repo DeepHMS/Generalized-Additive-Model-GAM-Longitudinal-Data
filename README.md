@@ -41,24 +41,42 @@ Results:
 These proteins have the strongest association with severity:
 
 LCN2: 0.735 
+
 SERPINA1: 0.705 
+
 IGLC3: 0.694 
+
 APOB: 0.694 
+
 IGKC: 0.678 
+
 APOC2: 0.663 
+
 CFH: 0.647 
+
 SERPINC1: 0.641 
+
 C9: 0.640 
+
 ORM1: 0.637
+
 
 Statistical Overview (Summary Stats Across All Proteins)
 
 GAM_P_Value: Mean ~6.00e-09 (all extremely low). 
+
 Pseudo_R_Squared: Mean 0.424, Std 0.150, Min 0.065, Max 0.735. 
+
 Group_Var: Mean 0.110, Std 0.077, Min 0.056, Max 0.399. 
+
 Gam_Pred_Coef: Mean ~1.008, Std ~0.003 (close to 1, as expected). 
+
 Gam_Pred_P_Value: Mean very low (e.g., ~1e-100 or smaller). 
+
 Effect_Critical: Mean 0.407, Std 0.181 (tends positive). 
+
 Effect_Mild: Mean -0.407, Std 0.140 (tends negative). 
+
 Effect_Moderate: Mean -0.153, Std 0.120. 
+
 Effect_Severe: Mean 0.155, Std 0.185.
